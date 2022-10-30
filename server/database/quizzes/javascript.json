@@ -395,7 +395,8 @@
       "answer_c": "number",
       "answer_d": "integer"
     },
-    "correct_answer": "answer_c"
+    "correct_answer": "answer_c",
+    "feedback": "Javascript tiene solo un tipo para los números por ello typeof siempre devuelve 'number'."
   },
   {
     "id": "323",
